@@ -1,0 +1,34 @@
+---
+layout: page
+title: Get Koottali
+permalink: "/download/"
+comments: false
+---
+
+<head>
+  <title>Redirect to App Store or Play Store</title>
+</head>
+
+<body onload="redirectToStore()">
+
+  <script>
+    function redirectToStore() {
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.location.href =
+          "https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453"; 
+      }
+
+      else if (/android/i.test(userAgent)) {
+        window.location.href =
+          "https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US";
+      }
+      else {
+        window.location.href = "https://koottali.com/"; 
+      }
+    }
+  </script>
+</body>
+
+</html>

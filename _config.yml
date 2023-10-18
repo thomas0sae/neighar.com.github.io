@@ -1,0 +1,56 @@
+title: "Neighar"
+email: as.thoms@gmail.com
+timezone: UTC
+baseurl: "/"
+permalink: "/:title/"
+logo: "assets/images/logo.png"
+favicon: "assets/images/ktnew.svg"
+author: neighar
+paginate: 30
+disqus: "neighar"
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-1Q3XYEWR1L
+
+# Authors
+authors:
+  sal:
+    name: Tom
+    display_name: Tom
+    avatar: "assets/images/sal.png"
+    email: as.thoms@gmail.com
+    web: https://www.neighar.com
+    twitter: https://twitter.com/neighar
+    description: "neighar"
+  john:
+    name: Alan
+    display_name: Alan
+    avatar: "assets/images/john.png"
+    email: as.thoms@gmail.com
+    web: https://www.neighar.com
+    twitter: https://twitter.com/neighar
+    description: "neighar"
+
+# Social
+social:
+  instagram: https://www.instagram.com/neighar/
+  facebook: https://www.facebook.com/neighar
+  twitter: https://twitter.com/neighar
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
