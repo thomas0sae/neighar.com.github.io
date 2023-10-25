@@ -716,3 +716,32 @@ span.navigation:before {
   transition: all.3s;
   opacity: 0.8;
 }
+
+
+// main home page build || alen
+
+.heros{
+  /* width: 100% !important; */
+  height: 80vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin:0 10%!important;
+}
+.heros>.left{
+  
+  width: 70%;
+}
+.heros>.left>h1{
+  font-size: 48px;
+}
+.heros>.right{
+ 
+  width: 20%;
+}
+.main-img>img{
+ width: 51vw;
+ position: absolute;
+ right: 0;
+ z-index: -1;
+}
