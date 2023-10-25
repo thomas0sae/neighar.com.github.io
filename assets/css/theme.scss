@@ -773,7 +773,9 @@ span.navigation:before {
 
 
 .second-image>img{
-  width: 100%;
+  width: 100vw;
+  left: 0;
+  right: 0;
   position: absolute;
   opacity: .6;
   z-index: -1;
