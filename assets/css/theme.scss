@@ -726,7 +726,7 @@ span.navigation:before {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin:0 10%!important;
+  // margin:0 10%!important;
 }
 .heros>.left{
   
@@ -744,4 +744,29 @@ span.navigation:before {
  position: absolute;
  right: 0;
  z-index: -1;
+}
+
+
+
+.about-us-section{
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  line-height: 2;
+  margin-top: 3rem!important;
+}
+.about-us-section>.left{
+  width: 40%;
+}
+.about-us-section>.right{
+  width: 60%;
+}
+.about-us-section>.left>img{
+  width: 40vw;
+}
+.about-us-section>.right>h2{
+  font-size: 32px;
+}
+.about-us-section>.right>p{
+  font-size: 18px;
 }
