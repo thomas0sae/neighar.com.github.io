@@ -770,3 +770,32 @@ span.navigation:before {
 .about-us-section>.right>p{
   font-size: 18px;
 }
+
+
+.second-image>img{
+  width: 100%;
+  position: absolute;
+  opacity: .6;
+  z-index: -1;
+  transform: scaleX(-1);
+  overflow: hidden;
+}
+.testimonial{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8rem!important;
+}
+.testimonial>.cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 4rem!important;
+
+}
+.testimonial>.cards>.card{
+width: 20rem;
+height: 16rem;
+background: rgb(255, 218, 218);
+}
