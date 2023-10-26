@@ -57,6 +57,10 @@ background: '/img/bg-index.jpg'
       <p>Take a break from your busy life and get to know your neighbors better. Neighar is here to help you connect with the people in your community and make your neighborhood a more welcoming place. We're all about building friendships and creating a happier, friendlier neighborhood</p>
   </div>
 </div>
+<div class="downloads" style="display: flex;justify-content: center;gap: 1rem; margin-top: 1rem;">
+  <a href="https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4" ><img src={{site.baseurl}}/assets/images/google-play.svg style="width: 20px;" alt=""> Play Store</a>
+  <a href="https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/app-store.svg style="width: 20px;" alt=""> App Store</a>
+</div>
 <div class="about-us-section2">
   <div class="left">
     <h2>About us </h2>
@@ -68,10 +72,7 @@ background: '/img/bg-index.jpg'
   </div>
 </div>
 
-<div class="downloads" style="display: flex;justify-content: center;gap: 1rem; margin-top: 1rem;">
-  <a href="https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4" ><img src={{site.baseurl}}/assets/images/google-play.svg style="width: 20px;" alt=""> Play Store</a>
-  <a href="https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/app-store.svg style="width: 20px;" alt=""> App Store</a>
-</div>
+
 
 <div class="second-image">
   <img src="{{site.baseurl}}/assets/images/new.png" alt="">
@@ -91,8 +92,8 @@ background: '/img/bg-index.jpg'
 
 <!-- Featured
 ================================================== -->
+<h1 style="text-align: center; margin-bottom: 4rem;">Blog Posts</h1>
 <section class="row">
-  <h1 style="text-align: center;">testimonials</h1>
   {% for post in site.posts %}
       {% if post.featured == true %}
           <div class="col-md-4 mb-5">
