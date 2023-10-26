@@ -756,7 +756,7 @@ span.navigation:before {
   // margin-top: 3rem!important;
 }
 .about-us-section>.left{
-  width: 40%;
+  // width: 40%;
 }
 .about-us-section>.right{
   width: 60%;
@@ -768,6 +768,29 @@ span.navigation:before {
   font-size: 32px;
 }
 .about-us-section>.right>p{
+  font-size: 18px;
+}
+
+.about-us-section2{
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  line-height: 2;
+  // margin-top: 3rem!important;
+}
+.about-us-section2>.left{
+  width: 60%;
+}
+.about-us-section2>.right{
+  // width: 60%;
+}
+.about-us-section2>.right>img{
+  width: 40vw;
+}
+.about-us-section2>.left>h2{
+  font-size: 32px;
+}
+.about-us-section2>.left>p{
   font-size: 18px;
 }
 
@@ -791,6 +814,7 @@ span.navigation:before {
 }
 .testimonial>.cards{
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 2rem;
   margin-top: 4rem!important;
