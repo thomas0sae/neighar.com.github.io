@@ -1054,4 +1054,16 @@ background: rgb(255, 218, 218);
 
 @media only screen and (max-width: 592px) {
 
+  .heros{
+    /* width: 100% !important; */
+    height: 70vh;
+    align-items: baseline;
+   
+  }
+  .main-img>img{
+    width: 76vw;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+   }
 }
