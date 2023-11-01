@@ -2,7 +2,7 @@
 layout: post
 title: "Neighar's Guide to Wayanad: Exploring the Top 10 Neighborhood Gems with Friends"
 categories: [Neighbourhood, family, social]
-image: assets/images/neig007.jpg
+image: assets/images/neig008.jpg
 ---
 
 Wayanad, the pristine hill station in Kerala, is a haven for nature lovers, adventurers, and those seeking to create lasting memories with friends. As we embark on this journey through Wayanad's finest attractions, we're delighted to have [Neighar](https://www.neighar.com), the top-rated neighborhood app, as our trusted companion. Let's dive into the best places to visit in Wayanad and make unforgettable memories in the lap of nature.
