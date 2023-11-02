@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Alappuzha's Hidden Treasures: Neighar's Guide to the Top 10 Neighborhood Gems with Friends"
-categories: [Neighbourhood, family, social]
+categories: [Neighbourhood, family, social, kerala]
 image: assets/images/neig005.jpg
 ---
 
