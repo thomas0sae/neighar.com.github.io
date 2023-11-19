@@ -19,7 +19,7 @@ background: '/img/bg-index.jpg'
 <!-- Home Intro
 ================================================== -->
 {% if page.url == "/" %} 
-<div class="rounded mb-5 hero">
+<!-- <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <h1 class="font-weight-bold mb-4 serif-font">Introducing Neighar, our Innovative new India Neighborhood & Community App.</h1>
@@ -31,11 +31,86 @@ background: '/img/bg-index.jpg'
       <img class="intro" height="500" src="{{site.baseurl}}/assets/images/neighar.png">      
     </div>
   </div>
+</div> -->
+
+<div class="main-img">
+  <img src="{{site.baseurl}}/assets/images/hero.png" alt="">
+</div>
+
+<div class="heros">
+  <div class="left">
+      <h1>Engage with your Neighborhood.</h1>
+      <p>Introducing Neighar, a social networking app for neighbourhood</p>
+  </div>
+  <div class="right">
+      <!-- <img src="/assets/images/hero.png" alt=""> -->
+  </div>
+</div>
+
+<div class="about-us-section">
+  <div class="left">
+      <img src="{{site.baseurl}}/assets/images/neighar.png" alt="">
+  </div>
+  <div class="right">
+      <h2>About us </h2>
+      <h5> Bringing Neighbors Together for a Happier Life</h5>
+      <p>Take a break from your busy life and get to know your neighbors better. Neighar is here to help you connect with the people in your community and make your neighborhood a more welcoming place. We're all about building friendships and creating a happier, friendlier neighborhood</p>
+  </div>
+</div>
+<div class="downloads" style="display: flex;justify-content: center;gap: 1rem; margin-top: 1rem;">
+  <a href="https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4" ><img src={{site.baseurl}}/assets/images/google-play.svg style="width: 20px;" alt=""> Play Store</a>
+  <a href="https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/app-store.svg style="width: 20px;" alt=""> App Store</a>
+</div>
+<div class="about-us-section2">
+  <div class="left">
+    <h2>Classifieds</h2>
+    <h5> A marketplace for buying, selling, or trading items within the neighborhood</h5>
+    <p>Users can list items and connect with potential buyers or sellers.Businesses within the neighborhood can promote their services, share discounts, and interact with potential customers.</p>
+  </div>
+  <div class="right">
+    <img src="{{site.baseurl}}/assets/images/neighar0001.png" alt="">
+  </div>
+</div>
+
+
+
+<div class="second-image">
+  <img src="{{site.baseurl}}/assets/images/new.png" alt="">
+</div>
+
+
+<div class="testimonial">
+  <h1>Get the most out of your neighborhood</h1>
+  <div class="cards">
+      <div class="card">
+          <img src="/assets/images/news.png" alt="">
+     <div class="details">
+      <h4>News Feeds</h4>
+      <p>A central feed where users can post updates, announcements and engage in discussions relevant to the neighborhood.</p>
+     </div>
+      </div>
+      <div class="card">
+          <img src="/assets/images/chat.png" alt="">
+     <div class="details">
+      <h4>Real-time Messaging </h4>
+      <p>Private and group messaging features to allow neighbors to communicate in real-time.</p>
+     </div>
+      </div>
+      <div class="card">
+          <img src="/assets/images/checked.png" alt="">
+     <div class="details">
+      <h4>Safety and Alerts</h4>
+      <p>A feature to report and discuss safety concerns, share emergency information, and receive local alerts and updates.</p>
+     </div>
+      </div>
+      
+  </div>
 </div>
 {% endif %}
 
 <!-- Featured
 ================================================== -->
+<h1 style="text-align: center; margin-bottom: 4rem;">Blog Posts</h1>
 <section class="row">
   {% for post in site.posts %}
       {% if post.featured == true %}
@@ -50,11 +125,11 @@ background: '/img/bg-index.jpg'
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
 <section class="row">
-  <div class="col-sm-8">
+  <div class="col-sm-12">
     <div class="row">
       {% for post in paginator.posts %}
       {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
+      <div class="col-md-4 mb-5">
         {% include postbox.html %}
       </div>
       {% endunless %}

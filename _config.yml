@@ -3,8 +3,8 @@ email: as.thoms@gmail.com
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
-logo: "assets/images/logo.png"
-favicon: "assets/images/ktnew.svg"
+logo: "assets/images/nlogo.png"
+favicon: "assets/images/nlogo.png"
 author: neighar
 paginate: 30
 disqus: "neighar"
