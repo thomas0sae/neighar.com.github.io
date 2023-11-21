@@ -10,7 +10,7 @@ Kottayam, a quaint town in the heart of Kerala, offers a tapestry of cultural ri
 
 ### Vembanad Lake: The Heart of Kottayam
 
-Begin your adventure at Vembanad Lake, where the tranquility of the backwaters can be enjoyed with friends. [Neighar](https://www.neighar.com) connects you with like-minded nature enthusiasts in your neighborhood for serene boat rides and lakeside picnics.
+Begin your adventure at Vembanad Lake, where the tranquility of the backwaters can be enjoyed with friends. [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) connects you with like-minded nature enthusiasts in your neighborhood for serene boat rides and lakeside picnics.
 
 ### Kumarakom Bird Sanctuary: A Haven for Birdwatchers
 
@@ -22,7 +22,7 @@ Explore the divine ambiance of Thirunakkara Mahadeva Temple, where you can engag
 
 ### Bay Island Driftwood Museum: A Unique Collection
 
-Discover the fascinating Bay Island Driftwood Museum and its intriguing collections. Use [Neighar](https://www.neighar.com) to connect with art and history lovers in your neighborhood for museum tours and art discussions.
+Discover the fascinating Bay Island Driftwood Museum and its intriguing collections. Use [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) to connect with art and history lovers in your neighborhood for museum tours and art discussions.
 
 ### Ettumanoor Mahadevar Temple: An Architectural Marvel
 
@@ -30,7 +30,7 @@ Ettumanoor Mahadevar Temple is celebrated for its stunning architecture. Connect
 
 ### Elaveezha Poonchira: Serene Meadows
 
-Visit Elaveezha Poonchira, a hidden paradise known for its vast meadows. Use [Neighar](https://www.neighar.com) to find fellow nature enthusiasts in your neighborhood for group outings and picnics.
+Visit Elaveezha Poonchira, a hidden paradise known for its vast meadows. Use [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) to find fellow nature enthusiasts in your neighborhood for group outings and picnics.
 
 ### Kottathavalam: Scenic Splendor
 
@@ -46,10 +46,10 @@ Vagamon, a hill station near Kottayam, boasts rolling hills and lush greenery. N
 
 #### Vaikom Mahadeva Temple: A Spiritual Retreat
 
-Visit Vaikom Mahadeva Temple, an ancient religious site. Use [Neighar](https://www.neighar.com) to connect with fellow devotees in your neighborhood and participate in temple festivities and cultural events.
+Visit Vaikom Mahadeva Temple, an ancient religious site. Use [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) to connect with fellow devotees in your neighborhood and participate in temple festivities and cultural events.
 
 Kottayam is more than a place; it's a community waiting to be explored with friends and neighbors by your side. Neighar is your trusted guide to connect with friends, neighbors, and fellow enthusiasts who share your passion for adventure and exploration. So, gather your friends and let Neighar be your companion as you explore the top 10 neighborhood gems of Kottayam. Your next adventure is just a tap away!
 
-[Neighar](https://www.neighar.com)
+[Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US)
 
 

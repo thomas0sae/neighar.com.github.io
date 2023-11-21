@@ -6,7 +6,7 @@ image: assets/images/neig005.jpg
 ---
 
 
-Are you ready to embark on an unforgettable journey through Alappuzha, the "Venice of the East"? This picturesque coastal town, located in the heart of Kerala, is brimming with natural beauty, cultural heritage, and delightful neighborhood spots waiting to be explored with your friends. Let [Neighar](https://www.neighar.com), the top-rated neighborhood app, be your trusted companion as we discover the best places to visit in Alappuzha.
+Are you ready to embark on an unforgettable journey through Alappuzha, the "Venice of the East"? This picturesque coastal town, located in the heart of Kerala, is brimming with natural beauty, cultural heritage, and delightful neighborhood spots waiting to be explored with your friends. Let [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US), the top-rated neighborhood app, be your trusted companion as we discover the best places to visit in Alappuzha.
 
 ### Alappuzha Beach: Sunsets by the Shore
 
@@ -34,15 +34,15 @@ Explore the Alleppey Lighthouse for panoramic views of the coastal town. Connect
 
 ### Marari Beach: A Hidden Gem
 
-Escape the crowds and visit the tranquil Marari Beach, where you can relax and rejuvenate with friends. [Neighar](https://www.neighar.com) can help you find like-minded beachgoers in your neighborhood for group trips.
+Escape the crowds and visit the tranquil Marari Beach, where you can relax and rejuvenate with friends. [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) can help you find like-minded beachgoers in your neighborhood for group trips.
 
 ### Karumadikuttan: Ancient Mysteries
 
-Unearth the ancient secrets of Karumadikuttan, a historic site with a Buddha statue. Use [Neighar](https://www.neighar.com) to connect with local history enthusiasts and visit the site together.
+Unearth the ancient secrets of Karumadikuttan, a historic site with a Buddha statue. Use [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) to connect with local history enthusiasts and visit the site together.
 
 ### Krishnapuram Palace: Regal Grandeur
 
-Experience the architectural splendor of Krishnapuram Palace, known for its unique gabled roof and a stunning mural. [Neighar](https://www.neighar.com) can connect you with history lovers in your neighborhood for palace visits and discussions.
+Experience the architectural splendor of Krishnapuram Palace, known for its unique gabled roof and a stunning mural. [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) can connect you with history lovers in your neighborhood for palace visits and discussions.
 
 ### Pathiramanal Island: Nature's Paradise
 
@@ -51,6 +51,6 @@ Sail to Pathiramanal Island and be surrounded by the beauty of nature. Use Neigh
 Alappuzha is more than just a town; it's a thriving community where connections are key to a fulfilling experience. The Neighar app is your ultimate guide to connect with friends, neighbors, and like-minded individuals who share your passion for exploring and creating memorable moments. So, gather your friends, and let's embark on an unforgettable journey through the top 10 neighborhood gems of Alappuzha with Neighar as your trusted companion. Your next adventure is just a tap away!
 
 
-[Neighar](https://www.neighar.com)
+[Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US)
 
 

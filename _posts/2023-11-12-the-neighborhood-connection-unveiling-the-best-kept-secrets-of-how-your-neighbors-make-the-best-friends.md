@@ -14,7 +14,7 @@ Neighborhood Chronicles: Building Bonds Beyond Boundaries
 Explore how neighborhoods serve as the backdrop for the most memorable chapters of our lives. From impromptu gatherings to shared celebrations, the close-knit community spirit thrives, creating bonds that withstand the test of time.
 
 The Power of Proximity: How Neighar Bridges the Gap
-Discover how the [Neighar](https://www.neighar.com) app revolutionizes neighborhood connections, bringing neighbors closer than ever before. With features like real-time messaging, event planning, and local recommendations, [Neighar](https://www.neighar.com) turns neighborhoods into interactive, dynamic hubs of communication.
+Discover how the [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) app revolutionizes neighborhood connections, bringing neighbors closer than ever before. With features like real-time messaging, event planning, and local recommendations, [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) turns neighborhoods into interactive, dynamic hubs of communication.
 
 Neighborhood Watch: Safety in Solidarity
 Dive into the concept of a Neighborhood Watch and how communities come together for the greater good. From ensuring safety to supporting each other during emergencies, the neighborhood watch embodies the collective strength that makes everyone feel secure.
@@ -38,10 +38,10 @@ Neighborhood Challenges: United in Diversity
 Unveil how neighborhoods face challenges together, emerging stronger and more united. Whether it's organizing fundraisers for a local cause or supporting each other during tough times, neighbors form a tight-knit support system.
 
 The Future of Neighborhoods: Growing Stronger with Neighar
-Look ahead to the future of neighborhoods with the transformative impact of the [Neighar](https://www.neighar.com) app. As technology continues to bridge gaps and enhance communication, neighborhoods evolve into dynamic communities where friendships thrive and support knows no bounds.
+Look ahead to the future of neighborhoods with the transformative impact of the [Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US) app. As technology continues to bridge gaps and enhance communication, neighborhoods evolve into dynamic communities where friendships thrive and support knows no bounds.
 
 Conclusion:
 
 In the grand tapestry of life, our neighborhoods are the vibrant threads that weave together the stories of shared joys, struggles, and triumphs. With Neighar paving the way for enhanced connections, the neighborhood isn't just a physical space; it's a dynamic, ever-evolving community where friendships blossom and neighbors truly become the best friends.
 
-[Neighar](https://www.neighar.com)
+[Neighar](https://play.google.com/store/apps/details?id=com.neighar.app&hl=en_IN&gl=US)
