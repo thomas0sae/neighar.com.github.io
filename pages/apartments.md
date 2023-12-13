@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Communicate with your neighbors in apartments or flats?
+title: Communicate with your neighbors in apartments or flats!
 permalink: /apartments/
 comments: false
 ---

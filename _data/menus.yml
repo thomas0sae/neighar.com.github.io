@@ -9,6 +9,12 @@ topmenu:
   - title: Contact
     url: "contact/"
 
+  - title: Apartments
+    url: "apartments/"
+
+  - title: What is Neighar
+    url: "what-is-neighar/"
+
 # - title: Get this theme
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
 #   class: "ml-2 btn btn-dark text-white px-3"
