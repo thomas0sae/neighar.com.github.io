@@ -6,14 +6,18 @@ topmenu:
   - title: About
     url: "about/"
 
-  - title: Contact
-    url: "contact/"
+  - title: What is Neighar
+    url: "what-is-neighar/"
 
   - title: Apartments
     url: "apartments/"
 
-  - title: What is Neighar
-    url: "what-is-neighar/"
+
+  - title: FAQs
+    url: "faqs/"
+
+  - title: Contact
+    url: "contact/"
 
 # - title: Get this theme
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
