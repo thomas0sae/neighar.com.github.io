@@ -6,6 +6,15 @@ topmenu:
   - title: About
     url: "about/"
 
+  - title: What is Neighar
+    url: "what-is-neighar/"
+
+  - title: Apartments
+    url: "apartments/"
+
+  - title: FAQs
+    url: "faqs/"
+
   - title: Contact
     url: "contact/"
 
