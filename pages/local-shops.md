@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Communicate with your neighbors in apartments or flats!
+title: Supporting Our Local Indian Shops and Community
 permalink: /local-shops/
 comments: false
 ---
 
-Supporting Our Indian Community: Embrace Local Indian Business Excellence
+
+### Embrace Local Indian Business Excellence
 
 In the heart of our vibrant community, there's a variety of local businesses that add character and color to our neighborhoods. These enterprises are more than just places to shop – they are the lifeblood of our community, contributing to its unique identity and fostering a sense of togetherness. Join us in celebrating and supporting our local businesses, the backbone of our shared prosperity.
 
