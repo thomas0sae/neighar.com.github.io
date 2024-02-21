@@ -12,6 +12,9 @@ topmenu:
   - title: Apartments
     url: "apartments/"
 
+  - title: Local Shops
+    url: "local-shops/"
+
   - title: FAQs
     url: "faqs/"
 
