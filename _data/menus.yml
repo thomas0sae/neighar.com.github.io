@@ -32,7 +32,7 @@ footermenu:
     url: ""
 
   - title: News
-    url: "/news"
+    url: "news/"
 
 
   - title: Privacy Policy
