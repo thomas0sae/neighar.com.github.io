@@ -173,6 +173,30 @@ background: '/img/bg-index.jpg'
   </div>
 </section>
 
+<!-- Posts List with Sidebar (except featured)
+================================================== -->
+<section class="row">
+  <div class="col-sm-12">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-4 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+ 
+</section>
+
+
 <!-- News
 ================================================== -->
 <h1 style="text-align: center; margin-bottom: 4rem;">News</h1>
@@ -187,13 +211,14 @@ background: '/img/bg-index.jpg'
   </div>
 </section>
 
-<!-- Posts List with Sidebar (except featured)
+
+<!-- News List with Sidebar (except featured)
 ================================================== -->
 <section class="row">
   <div class="col-sm-12">
     <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.featured == true %}
+      {% for newsarticle in paginator.news %}
+      {% unless newsarticle.featured == true %}
       <div class="col-md-4 mb-5">
         {% include postbox.html %}
       </div>
