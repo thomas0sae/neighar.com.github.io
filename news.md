@@ -1,0 +1,22 @@
+---
+title: News
+description: |
+    This section covers news mentions about Indian Neighborhood App Neighar in different publications and online websites
+---
+
+<ul>
+    {% for newsarticle in site.news %}
+        <li>
+            <h2>
+                <a href="{{ newsarticle.url | relative_url }}">
+                    {{ newsarticle.title }}
+                </a>
+            </h2>
+
+            <p>
+                <i>{{ newsarticle.description }}</i>
+            </p>
+            <p>{{ newsarticle.excerpt }}</p>
+        </li>
+    {% endfor %}
+</ul>
