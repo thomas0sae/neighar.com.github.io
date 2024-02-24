@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Neighar aims to solve the Indian Neighborhood problem and much more!
 permalink: /news/
 comments: false

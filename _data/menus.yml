@@ -31,6 +31,10 @@ footermenu:
   - title: Home
     url: ""
 
+  - title: News
+    url: "/news"
+
+
   - title: Privacy Policy
     url: "privacy-policy/"
 
