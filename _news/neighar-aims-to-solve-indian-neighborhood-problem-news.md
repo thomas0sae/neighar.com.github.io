@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neighar aims to solve the Indian Neighborhood problem and much more!
-permalink: /news/
+permalink: /news/neighar-aims-to-solve-indian-neighborhood-problem-news
 comments: false
 ---
 
