@@ -18,38 +18,29 @@ background: '/img/bg-index.jpg'
 
 <!-- Home Intro
 ================================================== -->
-{% if page.url == "/" %} 
-<!-- <div class="rounded mb-5 hero">
+{% if page.url == "/" %}
+<div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 serif-font">Introducing Neighar, our Innovative new India Neighborhood & Community App.</h1>
-      <p class="lead mb-4">With Koottali(English: Neighborhood 'Ghar' (House)) , we're revolutionizing the way people connect and find each other. We believe that true neighborhood goes beyond just staring at each other from distance.</p>
-        <a href="https://play.google.com/store/apps/details?id=com.neighar.app" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4" ><img src={{site.baseurl}}/assets/images/google-play.svg style="width: 20px;" alt=""> Play Store</a>
-        <a href="#" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/app-store.svg style="width: 20px;" alt=""> App Store</a>
+      <h1 class="font-weight-bold mb-4 serif-font">Neighar: Engage with Indian Neighborhoods & Communities</h1>
+      <p class="lead mb-4">Introducing Neighar, a social networking app for Indian neighbourhoods.
+        With Neighar (English: Neighbor + 'Ghar' (House)), we're revolutionizing the way Indians connect and discover
+        each other.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.neighar.app" target="_blank"
+        class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/google-play.svg
+          style="width: 20px;" alt=""> Play Store</a>
+      <a href="https://apps.apple.com/us/app/neighar-india-neighborhood-app/id6471035218" target="_blank"
+        class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/app-store.svg
+          style="width: 20px;" alt=""> App Store</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/neighar.png">      
+      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/hero.png">
     </div>
   </div>
-</div> -->
-
-<div class="main-img">
-  <img src="{{site.baseurl}}/assets/images/hero.png" alt="">
 </div>
+{% endif %}
 
-<div class="rounded mb-5 heros">
-  <div class="left row align-items-center justify-content-between">
-      <h1>Engage with Indian Neighborhoods</h1>
-      <p>Introducing Neighar, a social networking app for Indian neighbourhoods</p>
-      <div class="downloads col-md-12" style="display: flex;justify-content: center;gap: 1rem; margin-top: 1rem;">
-        <a href="https://play.google.com/store/apps/details?id=com.neighar.app" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4" ><img src={{site.baseurl}}/assets/images/google-play.svg style="width: 20px;" alt=""> Play Store</a>
-        <a href="https://apps.apple.com/us/app/neighar-india-neighborhood-app/id6471035218" target="_blank" class="btn btn-dark text-white px-5 btn-lg mb-4"><img src={{site.baseurl}}/assets/images/app-store.svg style="width: 20px;" alt=""> App Store</a>
-      </div>
-  </div>
-  <div class="right">
-      <!-- <img src="/assets/images/hero.png" alt=""> -->
-  </div>
-</div>
+
 <div class="testimonial">
   <h1>Neighar for Local Shops and Businesses</h1>
   <div class="cards">
@@ -157,7 +148,6 @@ background: '/img/bg-index.jpg'
       
   </div>
 </div>
-{% endif %}
 
 <!-- Featured
 ================================================== -->
