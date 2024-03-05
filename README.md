@@ -1,2 +1,2 @@
 # neighar.com.github.io
-Neighbor's Ghar
+Connect With Indian Neighborhoods. Earn Money. https://neighar.com/get-neighar
