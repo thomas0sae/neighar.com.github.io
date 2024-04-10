@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar's Punjab Panorama: Unveiling the Top Neighborhoods Where Friendship Blossoms"
+permalink: /blogs/neighars-panorama-unveiling-the-top-neighborhoods-where-friendship-blossoms
 categories: [Neighbourhood, family, social, punjab, neighar,kerala]
 image: assets/images/neig016.jpg
 ---
