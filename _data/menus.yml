@@ -34,6 +34,9 @@ footermenu:
   - title: News
     url: "news/"
 
+  - title: Blogs
+    url: "blogs/"
+
 
   - title: Privacy Policy
     url: "privacy-policy/"
