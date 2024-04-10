@@ -1,0 +1,23 @@
+---
+layout: page
+title: Blogs
+description: |
+    This section covers blogs about Indian Neighborhood App Neighar
+---
+
+<ul>
+    {% for blog in site.posts %}
+        <li>
+            <h2>
+                <a href="{{ blog.url | relative_url }}">
+                    {{ blog.title }}
+                </a>
+            </h2>
+
+            <p>
+                <i>{{ blog.description }}</i>
+            </p>
+            <p>{{ blog.excerpt }}</p>
+        </li>
+    {% endfor %}
+</ul>
