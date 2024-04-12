@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar's Guide to Trivandrum: Top 10 Neighborhood Gems to Explore with Friends"
+permalink: /blogs/neighars-guide-to-trivandrum-top-10-neighborhood-gems-to-explore-with-friends
 categories: [Neighbourhood, family, social]
 image: assets/images/neig004.jpg
 ---

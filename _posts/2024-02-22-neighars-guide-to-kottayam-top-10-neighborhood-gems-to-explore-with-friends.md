@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar's Guide to kottayam: Exploring the Top 10 Neighborhood Gems with Friends"
+permalink: /blogs/neighars-guide-to-kottayam-top-10-neighborhood-gems-to-explore-with-friends
 categories: [Neighbourhood, family, social]
 image: assets/images/neig007.jpg
 ---

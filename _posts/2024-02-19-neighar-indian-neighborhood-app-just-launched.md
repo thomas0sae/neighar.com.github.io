@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Exciting News: Indian Neighborhood App Neighar Just Launched! "
+permalink: /blogs/neighar-indian-neighborhood-app-just-launched
 categories: [Neighbourhood, family, social]
 image: assets/images/neig001.jpg
 ---

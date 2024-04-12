@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar’s Kerala Chronicles: Unveiling the Best Neighborhoods Where Friendship Knows No Boundaries"
+permalink: /blogs/neighars-kerala-chronicles-unveiling-the-best-neighborhoods-where-friendship-knows-no-boundaries
 categories: [Neighbourhood, family, social, kerala, neighar]
 image: assets/images/neig013.jpg
 ---

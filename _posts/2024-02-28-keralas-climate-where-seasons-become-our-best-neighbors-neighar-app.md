@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar's Weather Whimsy: Navigating Kerala's Climate, Where Seasons Become Our Best Neighbors"
+permalink: /blogs/keralas-climate-where-seasons-become-our-best-neighbors-neighar-app
 categories: [Neighbourhood, family, social, punjab, neighar,kerala]
 image: assets/images/neig017.jpg
 ---

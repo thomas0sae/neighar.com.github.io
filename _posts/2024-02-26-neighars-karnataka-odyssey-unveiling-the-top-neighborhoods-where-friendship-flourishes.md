@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar's Karnataka Odyssey: Unveiling the Top Neighborhoods Where Friendship Flourishes"
+permalink: /blogs/neighars-karnataka-odyssey-unveiling-the-top-neighborhoods-where-friendship-flourishes
 categories: [Neighbourhood, family, social, kerala, neighar]
 image: assets/images/neig014.jpg
 ---

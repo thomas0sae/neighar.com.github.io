@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Neighborhood Connection: Unveiling the Best Kept Secrets of How Your Neighbors Make the Best Friends"
+permalink: /blogs/the-neighborhood-connection-unveiling-the-best-kept-secrets-of-how-your-neighbors-make-the-best-friends
 categories: [Neighbourhood, family, social, kerala, neighar]
 image: assets/images/neig012.jpg
 ---

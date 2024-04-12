@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar: Your Best Neighborhood App for Top-Notch Neighborly Connections "
+permalink: /blogs/neighar-your-best-neighborhood-app-for-top-notch-neighborly-connections
 categories: [Neighbourhood, family, social]
 image: assets/images/neig002.jpg
 ---

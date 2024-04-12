@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Inextricable Connection: How Neighar Helps Us Thrive in Our Neighborhoods"
+permalink: /blogs/how-neighar-helps-us-thrive-in-our-neighborhoods
 categories: [Neighbourhood, family, social]
 image: assets/images/neig003.jpg
 ---

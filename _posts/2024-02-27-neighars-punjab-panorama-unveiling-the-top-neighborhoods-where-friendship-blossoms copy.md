@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Transforming Bihar's Villages: 6 Tips to Neighar's Impact on Community Development"
+permalink: /blogs/neighars-punjab-panorama-unveiling-the-top-neighborhoods-where-friendship-blossoms
 categories: [neighbourhood, family, social, bihar, neighar, india]
 image: assets/images/neig016.jpg
 ---

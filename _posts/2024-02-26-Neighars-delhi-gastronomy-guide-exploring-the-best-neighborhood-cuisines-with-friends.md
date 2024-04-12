@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neighar’s Delhi Gastronomy Guide: Exploring the Best Neighborhood Cuisines with Friends"
+permalink: /blogs/Neighars-delhi-gastronomy-guide-exploring-the-best-neighborhood-cuisines-with-friends
 categories: [Neighbourhood, family, social, delhi, neighar,kerala]
 image: assets/images/neig015.jpg
 ---

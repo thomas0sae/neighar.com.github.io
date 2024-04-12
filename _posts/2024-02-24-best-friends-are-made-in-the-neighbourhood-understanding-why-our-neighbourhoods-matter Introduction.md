@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Friends are Made in the Neighbourhood: Understanding Why our Neighbourhoods Matter"
+permalink: /blogs/best-friends-are-made-in-the-neighbourhood-understanding-why-our-neighbourhoods-matter
 categories: [Neighbourhood, family, social, kerala, neighar]
 image: assets/images/neig011.jpg
 ---
