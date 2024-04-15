@@ -11,7 +11,7 @@ Introduction:
 
 Sunish Easo, one of the co-founders of [Neighar](https://neighar.com/download), defines it as "the intersection between social and local." [Neighar](https://neighar.com/download) blends features from Facebook, Craigslist, and Evite, enabling users to create customized social networks based on their neighborhoods. In these networks, members can exchange safety advice, ask for local business suggestions, or offer items they no longer need.
 
-Tolia, a pioneer in user-generated content from the dot-com era, views [Neighar](https://neighar.com/download) as bridging a gap overlooked by expansive platforms such as Facebook and LinkedIn, which don't emphasize geographical closeness. Citing a 2010 Pew Research Center study that found 60% of Indians don't know their neighbors, Tolia thinks [Neighar](https://neighar.com/download) meets the demand to re-establish connections within local communities.
+[Neighar](https://neighar.com/download) addresses a void overlooked by expansive platforms such as Facebook and LinkedIn, which don't emphasize geographical closeness. Citing a 2010 Pew Research Center study that found 60% of Indians don't know their neighbors, [Neighar](https://neighar.com/download) aims to re-establish connections within local communities.
 
 [Neighar](https://neighar.com/download) is currently operational in more than 200 neighborhoods nationwide. Users value its attractive interface and advanced search capabilities, which represent an improvement over conventional neighborhood email Listservs. A crucial privacy feature is the software's verification process, ensuring that only residents of a particular neighborhood can join its network.
 
