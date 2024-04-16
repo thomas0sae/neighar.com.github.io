@@ -9,7 +9,7 @@ image: assets/images/neig002.jpg
 
 Introduction:
 
-Sunish Easo, one of the co-founders of [Neighar](https://neighar.com/download), defines it as "the intersection between social and local." [Neighar](https://neighar.com/download) blends features from Facebook, Craigslist, and Evite, enabling users to create customized social networks based on their neighborhoods. In these networks, members can exchange safety advice, ask for local business suggestions, or offer items they no longer need.
+Alan Skariah, one of the co-founders of [Neighar](https://neighar.com/download), defines it as "the intersection between social and local." [Neighar](https://neighar.com/download) blends features from Facebook, Craigslist, and Evite, enabling users to create customized social networks based on their neighborhoods. In these networks, members can exchange safety advice, ask for local business suggestions, or offer items they no longer need.
 
 [Neighar](https://neighar.com/download) addresses a void overlooked by expansive platforms such as Facebook and LinkedIn, which don't emphasize geographical closeness. Citing a 2010 Pew Research Center study that found 60% of Indians don't know their neighbors, [Neighar](https://neighar.com/download) aims to re-establish connections within local communities.
 
@@ -17,7 +17,7 @@ Sunish Easo, one of the co-founders of [Neighar](https://neighar.com/download), 
 
 Residents in various neighborhoods have embraced [Neighar](https://neighar.com/download), sharing information about events, and even offering items for free. [Neighar](https://neighar.com/download) plans to expand its reach further with a mobile application for on-the-go check-ins.
 
-Despite previous controversies, Sunish Easo, the co-founder of [Neighar](https://neighar.com/download), remains optimistic about the platform's positive influence on neighbors who might never have met otherwise. He highlights the satisfaction users feel when seeking and providing local recommendations, capturing the essence of being a supportive neighbor.
+Despite previous controversies, Alan, the co-founder of [Neighar](https://neighar.com/download), remains optimistic about the platform's positive influence on neighbors who might never have met otherwise. He highlights the satisfaction users feel when seeking and providing local recommendations, capturing the essence of being a supportive neighbor.
 
 
 Conclusion:

@@ -9,7 +9,7 @@ image: assets/images/neig011.jpg
 
 Introduction:
 
-[Neighar](https://neighar.com/download), officially launched on November 17,2023, acts as a tool to enhance local ties and promote communication among neighbors. Addressing the concern that social media often leads to individual isolation despite facilitating widespread sharing, [Neighar](https://neighar.com/download) seeks to reverse this trend by emphasizing geographical closeness. Developed by Sunish Easo, the platform enables neighbors to engage and discuss community-related issues.
+[Neighar](https://neighar.com/download), officially launched on November 17,2023, acts as a tool to enhance local ties and promote communication among neighbors. Addressing the concern that social media often leads to individual isolation despite facilitating widespread sharing, [Neighar](https://neighar.com/download) seeks to reverse this trend by emphasizing geographical closeness. Developed by Tom, Alan, and Abhi, the platform enables neighbors to engage and discuss community-related issues.
 
 [Neighar](https://neighar.com/download) serves as a solution to the diminishing neighborly interactions caused by the widespread use of digital tools. Following a successful year of testing in 175 neighborhoods across 26 states, the platform has gained popularity through word of mouth, linking locals in a way that's compared to a public utility.
 
