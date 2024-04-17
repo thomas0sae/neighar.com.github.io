@@ -37,9 +37,11 @@ footermenu:
   - title: Blogs
     url: "blogs/"
 
-
   - title: Privacy Policy
     url: "privacy-policy/"
+
+  - title: Terms & Conditions
+    url: "terms-conditions/"
 
   - title: Contact
     url: "contact/"
