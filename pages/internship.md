@@ -22,22 +22,22 @@ You can gain practical experience working on real projects. We provide excellent
 #### Marketing Intern: 
 <b>Description</b>: Assist in developing marketing strategies of reaching every Indian through technology. You may help build Neighar by creating content, and executing marketing campaigns.\
 <b>Requirements</b>: Strong communication skills, creativity, and a passion for marketing. Freshers and Final Semester/Year college students are welcome to apply.\
-<b>Duration</b>: 3-6 months\
+<b>Duration</b>: 3-6 months
 
 #### Software Development Engineer Intern
 <b>Description</b>: Contribute to software development projects, participate in coding tasks, and collaborate with the development team.\
 <b>Requirements</b>: Proficiency in programming languages, strong problem-solving skills.\
-<b>Duration</b>: Mostly 3-6 months, depending on project requirements. Freshers and Final Semester/Year college students are welcome to apply.\
+<b>Duration</b>: Mostly 3-6 months, depending on project requirements. Freshers and Final Semester/Year college students are welcome to apply.
 
 #### Human Resources Intern
 <b>Description</b>: Assist with recruitment, onboarding, employee relations, and HR initiatives.\
 <b>Requirements</b>: Strong organizational skills, attention to detail, and an interest in HR.\
-<b>Duration</b>: Mostly 3-6 months. Part-time paid work is also available.\
+<b>Duration</b>: Mostly 3-6 months. Part-time paid work is also available.
 
 #### Graphic Design Intern
 <b>Description</b>: Design graphics for marketing materials, social media content, and other visual assets.\
 <b>Requirements</b>: Proficiency in design software such as Adobe Creative Suite, creativity, and attention to detail.\
-<b>Duration</b>: 10-12 weeks\
+<b>Duration</b>: 10-12 weeks
 
 #### How to Apply
 To apply for an internship position, please fill the form below. We will contact you!
