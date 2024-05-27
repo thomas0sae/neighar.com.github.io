@@ -11,21 +11,21 @@ Introduction:
  
 
 Neighar Engineering Blog
-Posted on April 15, 2024 by Jacob John
+Posted on April 15, 2024 by Sancho John
 
 
 At [Neighar](https://neighar.com/download), our engineering team has been dedicated to developing features that aim to strengthen and secure our communities. However, we also want to take moments to share our progress with you. Today, we are excited to announce that we are making one of our internal development tools, git-change, available to the open-source community.
 
-Recognizing that much of our communication will be highly technical, we have created a new blog specifically for [Neighar](https://neighar.com/download) engineering news. To read today's announcement about our newly released development tool and to stay updated on other engineering developments, visit the [Neighar](https://neighar.com/download) Engineering Blog.
+Recognizing that much of our communication will be highly technical, we have created a new blog specifically for [Neighar](https://neighar.com/get-neighar) engineering news. To read today's announcement about our newly released development tool and to stay updated on other engineering developments, visit the [Neighar](https://neighar.com/blog) Engineering Blog.
 
-Jacob John
+Sancho John
 Principal Software Engineer
 
 
 Conclusion:
 
 
-We are thrilled to open our doors a bit wider and share our journey with you through the [Neighar](https://neighar.com/download) Engineering Blog. By making tools like git-change available to the open-source community, we hope to contribute to and engage with a broader network of innovators. Stay tuned to our blog for more updates and insights from our engineering team as we continue to develop solutions that enhance neighborhood safety and connectivity.
+We are thrilled to open our doors a bit wider and share our journey with you through the [Neighar](https://neighar.com/get-neighar) Engineering Blog. By making tools like git-change available to the open-source community, we hope to contribute to and engage with a broader network of innovators. Stay tuned to our blog for more updates and insights from our engineering team as we continue to develop solutions that enhance neighborhood safety and connectivity.
 
 
 [Neighar](https://www.neighar.com)
