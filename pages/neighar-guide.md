@@ -28,7 +28,7 @@ Neighar prioritizes your well-being by ensuring that all members are verified ne
 <script>
 function showGif(gifId) {
   // Hide all GIFs
-  var gifElements = document.querySelectorAll('div[id^="gif"]');
+  var gifElements = document.querySelectorAll('div[id^="v"]');
   gifElements.forEach(function(gif) {
     gif.style.display = 'none';
   });
