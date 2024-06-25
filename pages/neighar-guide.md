@@ -14,10 +14,10 @@ comments: false
 <div id="v1" style="text-align:center;">
     <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="400">
 </div>
-<div id="v2" style="text-align:center;">
+<div id="v2" style="text-align:center; display:none;">
     <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="400">
 </div>
-<div id="v3" style="text-align:center;">
+<div id="v3" style="text-align:center; display:none;">
     <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="400">
 </div>
 
