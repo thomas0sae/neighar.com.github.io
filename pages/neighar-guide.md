@@ -7,7 +7,7 @@ comments: false
 
 ### What is Neighar?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GGd-xiA-M3Y?si=5UpqoJjmMI_44Di7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="640" height="360">
 
 ### Foster a safer neighborhood with Neighar
 
