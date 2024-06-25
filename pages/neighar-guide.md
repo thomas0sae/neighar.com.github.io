@@ -7,7 +7,9 @@ comments: false
 
 ### What is Neighar?
 
-<img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="640" height="360">
+<div style="text-align=:center;">
+    <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="640">
+</div>
 
 ### Foster a safer neighborhood with Neighar
 
