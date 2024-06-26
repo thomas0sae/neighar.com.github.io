@@ -26,6 +26,15 @@ comments: false
 Neighar prioritizes your well-being by ensuring that all members are verified neighbors. Stay informed about the latest local events, weather forecasts, or security concerns, and actively contribute to the safety of your community.
 
 <script>
+  let currentGifIndex = 1;
+const totalGifs = 3;
+
+const gifNames = {
+  1: 'GIF 1',
+  2: 'GIF 2',
+  3: 'GIF 3'
+};
+
 function showGif(gifId) {
   // Hide all GIFs
   var gifElements = document.querySelectorAll('div[id^="v"]');
