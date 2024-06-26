@@ -7,15 +7,15 @@ comments: false
 
 ### What is Neighar?
 
-<button onclick="showGif('v1')">Toggle 1</button>
-<button onclick="showGif('v2')">Toggle 2</button>
-<button onclick="showGif('v3')">Toggle 3</button>
+<button onclick="navigateGif('prev')">&lt; Back</button>
+<span id="gifName">GIF 1</span>
+<button onclick="navigateGif('next')">Next &gt;</button>
 
 <div id="v1" style="text-align:center;">
     <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="400">
 </div>
 <div id="v2" style="text-align:center; display:none;">
-    <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="400">
+    <img src="{{ '/assets/videos/2.gif' | relative_url }}" alt="My SVG Video" width="400">
 </div>
 <div id="v3" style="text-align:center; display:none;">
     <img src="{{ '/assets/videos/1.gif' | relative_url }}" alt="My SVG Video" width="400">
@@ -38,5 +38,21 @@ function showGif(gifId) {
   if (selectedGif) {
     selectedGif.style.display = 'block';
   }
+    // Update GIF name
+  document.getElementById('gifName').textContent = gifNames[currentGifIndex];
 }
+function navigateGif(direction) {
+  if (direction === 'next') {
+    currentGifIndex = (currentGifIndex % totalGifs) + 1;
+  } else if (direction === 'prev') {
+    currentGifIndex = (currentGifIndex - 2 + totalGifs) % totalGifs + 1;
+  }
+
+  showGif('v' + currentGifIndex);
+}
+
+// Initial display setup
+document.addEventListener('DOMContentLoaded', function() {
+  showGif('v1');
+});
 </script>
