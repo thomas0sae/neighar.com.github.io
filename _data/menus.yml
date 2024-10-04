@@ -9,6 +9,9 @@ topmenu:
   - title: What is Neighar
     url: "what-is-neighar/"
 
+  - title: Neighar Guide
+    url: "neighar-guide/"
+
   - title: Apartments
     url: "apartments/"
 
