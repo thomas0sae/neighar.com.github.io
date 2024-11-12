@@ -3,7 +3,7 @@ layout: post
 title: "10 Simple Ways to Grow and Strengthen Your Neighar Neighborhood"
 permalink: /blogs/simple-ways-to-grow-and-strengthen-your-neighar-neighborhood
 categories: [Neighbourhood, family, social, punjab, neighar,kerala]
-image: assets/images/neighar-blog-1.jpg
+image: assets/images/neighar-blog-1.png
 ---
 
 
